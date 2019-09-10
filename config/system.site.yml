@@ -1,0 +1,14 @@
+uuid: 403348f0-73c5-4d11-9ddf-51d178e4eb04
+name: notterrible-d8-composer-demo
+mail: raymond.wang@pantheon.io
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yTxtFqBHnEWxQswuWvkjE8mKw2t8oKuCL1q8KnfHuGE
